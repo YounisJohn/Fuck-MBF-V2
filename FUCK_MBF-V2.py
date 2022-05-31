@@ -436,7 +436,7 @@ def mbfv2():
          mbfv2()
     elif uwu == "0" or uwu =="00":
          aink("\n\033[1;92m Terima kasih sudah menggunakan tools ini.\n  Dan jangan lupa follow facebook saya\n\n")
-         os.system("xdg-open https://www.facebook.com/(Azley.Ernesto.18/")
+         os.system("xdg-open https://www.facebook.com/Azley.Ernesto.18/")
          aink("\033[93m [▪] BYE...")
          exit()
 
